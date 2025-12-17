@@ -1,7 +1,7 @@
 # YouTubeToMP3
 Program downloads and saves MP3 from Youtube URL. 
 
-NonCommercial — You may not use the material for commercial purposes.
+NonCommercial — You should not use the material for commercial purposes.
 
 ** YouTube To MP3
 ---------------------
